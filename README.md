@@ -81,7 +81,14 @@
 > New commits & events are on the way! Stay tuned.
 
 <!--START_SECTION:activity-->
-
+1. ⭐ Starred [iconify/iconify](https://github.com/iconify/iconify) on Oct 20, 2026
+2. 🔔 Watching [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) on Oct 20, 2026
+3. 🔔 Watching [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) on Oct 20, 2026
+4. 🔔 Watching [devicons/devicon](https://github.com/devicons/devicon) on Oct 20, 2026
+5. ⭐ Starred [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) on Oct 20, 2026
+6. 🔔 Watching [killerwy/house-rent-system](https://github.com/killerwy/house-rent-system) on Oct 17, 2026
+7. ⭐ Starred [morluto/rea](https://github.com/morluto/rea) on Oct 15, 2026
+8. ⭐ Starred [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) on Oct 15, 2026
 <!--END_SECTION:activity-->
 
 <h2 style="border-bottom: none;">📱 Connect With Me</h2>

@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Hello+World!;Welcome+to+My+‌Personal+Homepage&font=Fira+Code&pause=500" alt="Typing SVG"></a>
+<a href="https://git.io/typing-svg"><img src="./Typing-SVG.svg" alt="Typing SVG"></a> <!-- https://readme-typing-svg.demolab.com/?lines=Hello+World!;Welcome+to+My+‌Personal+Homepage&font=Fira%20Code&pause=500 -->
 
 <h1 align="center" style="border-bottom: none;">Hi 👋, My Name is Killerwy</h1>
 <h3 align="center">A passionate developer from China</h3>

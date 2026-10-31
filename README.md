@@ -57,8 +57,8 @@
 <h2 style="border-bottom: none;">📊 GitHub Stats</h2>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=killerwy&theme=github_dark" alt="Anurag's GitHub stats"></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=killerwy&theme=github_dark&layout=compact&langs_count=10" alt="Top Langs"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-stats-extended.vercel.app/api?username=killerwy&theme=github_dark" alt="Anurag's GitHub stats"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=killerwy&theme=github_dark&layout=compact&langs_count=10" alt="Top Langs"></a>
   <a href="https://github.com/yoshi389111/github-profile-3d-contrib"><img src="./profile-3d-contrib/profile-season-animate.svg" alt="github-profile-3d-contrib" /></a>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=killerwy" alt="GitHub Streak"></a>
 </div>
@@ -68,12 +68,12 @@
 <p align="center"><b>— 📌 Here are some representative projects I built during my learning journey: —</b></p>
 
 <div align="center">
-  <a href="https://github.com/killerwy/house-rent-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=killerwy&repo=house-rent-system&show_owner=true&description_lines_count=3" alt="Readme Card"></a>
-  <a href="https://github.com/killerwy/openEuler_cmd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=killerwy&repo=openEuler_cmd&show_owner=true&description_lines_count=3" alt="Readme Card"></a>
-  <a href="https://github.com/killerwy/ancient-architecture-visualization"><img src="https://github-readme-stats.vercel.app/api/pin/?username=killerwy&repo=ancient-architecture-visualization&show_owner=true&description_lines_count=3" alt="Readme Card"></a>
-  <a href="https://github.com/killerwy/spam-classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=killerwy&repo=spam-classification&show_owner=true&description_lines_count=3" alt="Readme Card"></a>
-  <a href="https://github.com/killerwy/sudoku"><img src="https://github-readme-stats.vercel.app/api/pin/?username=killerwy&repo=sudoku&show_owner=true&description_lines_count=3" alt="Readme Card"></a>
-  <a href="https://github.com/killerwy/calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=killerwy&repo=calculator&show_owner=true&description_lines_count=3" alt="Readme Card"></a>
+  <a href="https://github.com/killerwy/house-rent-system"><img src="https://github-stats-extended.vercel.app/api/pin/?username=killerwy&repo=house-rent-system&show_owner=true&description_lines_count=3" alt="Readme Card"></a>
+  <a href="https://github.com/killerwy/openEuler_cmd"><img src="https://github-stats-extended.vercel.app/api/pin/?username=killerwy&repo=openEuler_cmd&show_owner=true&description_lines_count=3" alt="Readme Card"></a>
+  <a href="https://github.com/killerwy/ancient-architecture-visualization"><img src="https://github-stats-extended.vercel.app/api/pin/?username=killerwy&repo=ancient-architecture-visualization&show_owner=true&description_lines_count=3" alt="Readme Card"></a>
+  <a href="https://github.com/killerwy/spam-classification"><img src="https://github-stats-extended.vercel.app/api/pin/?username=killerwy&repo=spam-classification&show_owner=true&description_lines_count=3" alt="Readme Card"></a>
+  <a href="https://github.com/killerwy/sudoku"><img src="https://github-stats-extended.vercel.app/api/pin/?username=killerwy&repo=sudoku&show_owner=true&description_lines_count=3" alt="Readme Card"></a>
+  <a href="https://github.com/killerwy/calculator"><img src="https://github-stats-extended.vercel.app/api/pin/?username=killerwy&repo=calculator&show_owner=true&description_lines_count=3" alt="Readme Card"></a>
 </div>
 
 <h2 style="border-bottom: none;">⚡ Recent Activities</h2>

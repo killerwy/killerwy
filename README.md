@@ -89,8 +89,6 @@
 6. 📝 Committed to main in [killerwy/killerwy](https://github.com/killerwy/killerwy/commit/72d1918546ce3db624a5325f33676e5ed76fbaba) on Oct 23, 2026
 7. 📝 Committed to main in [killerwy/killerwy](https://github.com/killerwy/killerwy/commit/190412e40c0fe862e0a7cfd29f2f5a6722424a69) on Oct 23, 2026
 8. 🆕 Opened issue #1 in [killerwy/killerwy](https://github.com/killerwy/killerwy/issues/1) on Oct 23, 2026
-9. ⭐ Starred [iconify/iconify](https://github.com/iconify/iconify) on Oct 20, 2026
-10. 🔔 Watching [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) on Oct 20, 2026
 <!--END_SECTION:activity-->
 
 <h2 style="border-bottom: none;">📱 Connect With Me</h2>
